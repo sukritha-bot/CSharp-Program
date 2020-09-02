@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>pkey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MyFirstpub_lib">
+      <HintPath>..\..\MyFirstpub_lib\MyFirstpub_lib\bin\Debug\netstandard2.0\MyFirstpub_lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
