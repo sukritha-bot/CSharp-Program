@@ -1,0 +1,10 @@
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\bin\Debug\Databasegrid.exe.config
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\bin\Debug\Databasegrid.exe
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\bin\Debug\Databasegrid.pdb
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.csprojAssemblyReference.cache
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.Form1.resources
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.Properties.Resources.resources
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.csproj.GenerateResource.cache
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.csproj.CoreCompileInputs.cache
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.exe
+F:\Visual studio\CSharp_prgm\Databasegrid\Databasegrid\obj\Debug\Databasegrid.pdb
